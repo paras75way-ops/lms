@@ -114,12 +114,5 @@ Video upload support
 
 Rate limiting on authentication endpoints
 
-Email verification
-
-Certificate generation
-
 Docker support
 
-Author
-
-Paras Ohri
