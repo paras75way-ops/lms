@@ -36,7 +36,7 @@ Interactive API documentation using Swagger
 
 Project Setup Instructions
 1. Clone the Repository
-git clone <repository_url>
+git clone https://github.com/paras75way-ops/lms.git
 cd assesment
 2. Create and Activate Virtual Environment
 
