@@ -6,7 +6,7 @@ This project is a backend API for a Learning Management System (LMS). It is buil
 
 Tech Stack
 
-Python 3.10+
+Python 3.13
 
 FastAPI
 
